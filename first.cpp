@@ -1,2 +1,6 @@
 #include "first.h"
-int i = 0;
+
+void main()
+{
+	return ;
+}
